@@ -121,6 +121,6 @@ sequenceDiagram
 
 Mimic Hub is an infrastructure tool. We provide the encrypted pipe; you provide the water. We strictly prohibit the use of this software to bypass DRM, pirate software, or distribute illegal content. Due to our Zero-Knowledge architecture, we cannot monitor payloads, but we cooperate fully with infrastructure bans if network abuse is detected.
 
-Read our full [Privacy Policy & Terms of Service](https://mimic-hub.net/privacy).
+Read our full [Privacy Policy & Terms of Service](https://mimic-hub.net/).
 
     
